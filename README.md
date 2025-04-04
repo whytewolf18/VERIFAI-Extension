@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Fact Check Extension
 
 ## Overview
@@ -55,3 +56,7 @@ Contributions are welcome! Please submit a pull request or open an issue for any
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
+=======
+# VERIFAI-Extension
+The Fact Check Extension is a browser extension designed to provide real-time fact-checking for content on Facebook. It leverages the VERIFAI API to analyze claims made in posts and comments, helping users identify misinformation.
+>>>>>>> e18ef69d2246a062da290ba2442214f63a205068
