@@ -1,0 +1,1014 @@
+{
+  "timestamp": "2025-03-19T23:28:34.137647",
+  "results": [
+    {
+      "text": "BBM claims Philippines achieved 6.9% GDP growth in 2023",
+      "politicians": [
+        "Ferdinand Marcos Jr."
+      ],
+      "is_claim": true,
+      "analysis": {
+        "analysis": {
+          "claim_type": "statement_about",
+          "classification": "FALSE",
+          "explanation": "THIS IS FALSE. According to the provided evidence, the Philippines did not achieve a 6.9% GDP growth in 2023. The data from the Asian Development Bank (ADB) shows that the Philippines' GDP growth forecast for 2023 is actually 6.0%, not 6.9% as claimed.",
+          "evidence": [
+            "The Asian Development Outlook (ADO) 2023 report forecasts the Philippines' GDP growth at 6.0% in 2023.",
+            "The ADB report also mentions risks to the growth outlook, such as the potential impact of the COVID-19 pandemic.",
+            "There is no mention or data provided in the evidence to support the claim of 6.9% GDP growth for the Philippines in 2023."
+          ],
+          "sources": [
+            {
+              "name": "Asian Development Bank (ADB)",
+              "url": "https://www.adb.org/publications/asian-development-outlook-2023",
+              "type": "news"
+            }
+          ]
+        },
+        "metadata": {
+          "timestamp": "2025-03-19T23:28:10.787004",
+          "sources_found": 0,
+          "source_types": {
+            "news": 0,
+            "fact_check": 0
+          }
+        }
+      },
+      "evidence": {
+        "google_news": [
+          {
+            "kind": "customsearch#result",
+            "title": "2024: An election year | The Freeman",
+            "htmlTitle": "2024: An election year | The Freeman",
+            "link": "https://www.philstar.com/the-freeman/opinion/2024/01/19/2326969/2024-election-year",
+            "displayLink": "www.philstar.com",
+            "snippet": "Jan 18, 2024 ... The Year of the Dragon will see hotly-contested elections in major countries and the polls shall impact on the global economy and overall socioeconomic\u00a0...",
+            "htmlSnippet": "Jan 18, 2024 <b>...</b> The Year <b>of</b> the Dragon will see hotly-contested elections in major countries and the polls shall impact on the global <b>economy</b> and overall socioeconomic&nbsp;...",
+            "formattedUrl": "https://www.philstar.com/the-freeman/opinion/2024/.../2024-election-year",
+            "htmlFormattedUrl": "https://www.philstar.com/the-freeman/opinion/2024/.../2024-election-year",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtMPqGX6zycVXSsnZjhXHS_4QLaQvITmntoh2oZibYbe5ic67YwKuT7sNX&s",
+                  "width": "297",
+                  "height": "170"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=532930273",
+                  "og:image": "https://media.philstar.com/images/filler/3-logo-filler-thumbnail.jpg",
+                  "twitter:card": "summary_large_image",
+                  "appleid-signin-state": "https://www.philstar.com/the-freeman/opinion/2024/01/19/2326969/2024-election-year",
+                  "og:site_name": "Philstar.com",
+                  "dailymotion-domain-verification": "dmnqtuxevpqh4qp3c",
+                  "appleid-signin-client-id": "com.philstar.myaccount",
+                  "og:description": "This is a very important year.",
+                  "twitter:creator": "@philstarnews",
+                  "twitter:image": "https://media.philstar.com/images/filler/3-logo-filler-thumbnail.jpg",
+                  "twitter:site": "@philstarnews",
+                  "og:type": "website",
+                  "twitter:title": "2024: An election year",
+                  "og:image:url": "https://media.philstar.com/images/filler/3-logo-filler-thumbnail.jpg",
+                  "msvalidate.01": "A420D7D07ED09E5C42E6F71783C169FE",
+                  "author": "Atty. Josephus Jimenez",
+                  "og:title": "2024: An election year",
+                  "appleid-signin-redirect-uri": "https://www.philstar.com/redirect-apple-signin.php",
+                  "appleid-signin-nonce": "[NONCE]",
+                  "fb:app_id": "1492927611003506",
+                  "appleid-signin-scope": "name email",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "This is a very important year.",
+                  "appleid-signin-use-popup": "true",
+                  "og:url": "https://www.philstar.com/the-freeman/opinion/2024/01/19/2326969/2024-election-year"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://media.philstar.com/images/filler/3-logo-filler-thumbnail.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Groups slam Marcos admin's failure to address economic crisis in ...",
+            "htmlTitle": "Groups slam Marcos admin&#39;s failure to address <b>economic</b> crisis in ...",
+            "link": "https://www.philstar.com/headlines/2022/10/08/2215203/groups-slam-marcos-admins-failure-address-economic-crisis-first-100-days",
+            "displayLink": "www.philstar.com",
+            "snippet": "Oct 7, 2022 ... MANILA, Philippines \u2014 Groups are criticizing President Ferdinand \u201cBongbong\u201d Marcos Jr.'s first 100 days in office after they were\u00a0...",
+            "htmlSnippet": "Oct 7, 2022 <b>...</b> MANILA, <b>Philippines</b> \u2014 Groups are criticizing President Ferdinand \u201cBongbong\u201d Marcos Jr.&#39;s first 100 days in office after they were&nbsp;...",
+            "formattedUrl": "https://www.philstar.com/.../groups-slam-marcos-admins-failure-address-ec...",
+            "htmlFormattedUrl": "https://www.philstar.com/.../groups-slam-marcos-admins-failure-address-ec...",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDnWmQSHTzrKbk5Z5Vc1PIN5zBIxcouqTLrvnDw8jnDvcTZbULD7xCimE&s",
+                  "width": "276",
+                  "height": "182"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=532930273",
+                  "og:image": "https://media.philstar.com/photos/2022/06/30/20220630001132img3547_2022-06-30_18-19-31.jpg",
+                  "og:type": "website",
+                  "twitter:card": "summary_large_image",
+                  "twitter:title": "Groups slam Marcos admin\u2019s failure to address economic crisis in first 100 days",
+                  "appleid-signin-state": "https://www.philstar.com/headlines/2022/10/08/2215203/groups-slam-marcos-admins-failure-address-economic-crisis-first-100-days",
+                  "og:site_name": "Philstar.com",
+                  "og:image:url": "https://media.philstar.com/photos/2022/06/30/20220630001132img3547_2022-06-30_18-19-31.jpg",
+                  "msvalidate.01": "A420D7D07ED09E5C42E6F71783C169FE",
+                  "og:title": "Groups slam Marcos admin\u2019s failure to address economic crisis in first 100 days",
+                  "dailymotion-domain-verification": "dmnqtuxevpqh4qp3c",
+                  "appleid-signin-redirect-uri": "https://www.philstar.com/redirect-apple-signin.php",
+                  "appleid-signin-client-id": "com.philstar.myaccount",
+                  "og:description": "Anakpawis party-list, fisherfolk organization Pambansang lakas ng Kilusang Mamamalakaya ng Pilipinas (PAMALAKAYA), and farmers\u2019 group Kilusang Magbubukid ng Pilipinas (KMP) said Marcos Jr.\u2019s administration has failed to address the economic crisis.",
+                  "twitter:creator": "@philstarnews",
+                  "twitter:image": "https://media.philstar.com/photos/2022/06/30/20220630001132img3547_2022-06-30_18-19-31.jpg",
+                  "appleid-signin-nonce": "[NONCE]",
+                  "fb:app_id": "1492927611003506",
+                  "twitter:site": "@philstarnews",
+                  "appleid-signin-scope": "name email",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "Anakpawis party-list, fisherfolk organization Pambansang lakas ng Kilusang Mamamalakaya ng Pilipinas (PAMALAKAYA), and farmers\u2019 group Kilusang Magbubukid ng Pilipinas (KMP) said Marcos Jr.\u2019s administration has failed to address the economic crisis.",
+                  "appleid-signin-use-popup": "true",
+                  "og:url": "https://www.philstar.com/headlines/2022/10/08/2215203/groups-slam-marcos-admins-failure-address-economic-crisis-first-100-days"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://media.philstar.com/photos/2022/06/30/20220630001132img3547_2022-06-30_18-19-31.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "In charts: The Philippine economy 100 days into Marcos presidency ...",
+            "htmlTitle": "In charts: The <b>Philippine economy</b> 100 days into Marcos presidency ...",
+            "link": "https://www.philstar.com/business/2022/10/07/2214975/charts-philippine-economy-100-days-marcos-presidency",
+            "displayLink": "www.philstar.com",
+            "snippet": "Oct 6, 2022 ... The Marcos Jr. administration had lofty expectations for the Philippine economy in 2022 but saw its growth clipped by headwinds here and\u00a0...",
+            "htmlSnippet": "Oct 6, 2022 <b>...</b> The Marcos Jr. administration had lofty expectations for the <b>Philippine economy</b> in 2022 but saw its <b>growth</b> clipped by headwinds here and&nbsp;...",
+            "formattedUrl": "https://www.philstar.com/.../charts-philippine-economy-100-days-marcos-p...",
+            "htmlFormattedUrl": "https://www.philstar.com/.../charts-philippine-economy-100-days-marcos-p...",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRO4F4HqTCIUG4pj0Oc05L8Rl2lNNxzktXHSNgm5yMzj5Aqd3vAspfaRIRr&s",
+                  "width": "275",
+                  "height": "183"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=532930273",
+                  "og:image": "https://media.philstar.com/photos/2022/10/07/marcos-jr-100-days-economy_2022-10-07_16-05-38.jpg",
+                  "twitter:card": "summary_large_image",
+                  "appleid-signin-state": "https://www.philstar.com/business/2022/10/07/2214975/charts-philippine-economy-100-days-marcos-presidency",
+                  "og:site_name": "Philstar.com",
+                  "dailymotion-domain-verification": "dmnqtuxevpqh4qp3c",
+                  "appleid-signin-client-id": "com.philstar.myaccount",
+                  "og:description": "The Marcos Jr. administration had lofty expectations for the Philippine economy in 2022 but saw its growth clipped by headwinds here and abroad, which left onlookers wondering what the rest of the year holds",
+                  "twitter:creator": "@philstarnews",
+                  "twitter:image": "https://media.philstar.com/photos/2022/10/07/marcos-jr-100-days-economy_2022-10-07_16-05-38.jpg",
+                  "twitter:site": "@philstarnews",
+                  "og:type": "website",
+                  "twitter:title": "In charts: The Philippine economy 100 days into Marcos presidency",
+                  "og:image:url": "https://media.philstar.com/photos/2022/10/07/marcos-jr-100-days-economy_2022-10-07_16-05-38.jpg",
+                  "msvalidate.01": "A420D7D07ED09E5C42E6F71783C169FE",
+                  "author": "Ramon Royandoyan",
+                  "og:title": "In charts: The Philippine economy 100 days into Marcos presidency",
+                  "appleid-signin-redirect-uri": "https://www.philstar.com/redirect-apple-signin.php",
+                  "appleid-signin-nonce": "[NONCE]",
+                  "fb:app_id": "1492927611003506",
+                  "appleid-signin-scope": "name email",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "The Marcos Jr. administration had lofty expectations for the Philippine economy in 2022 but saw its growth clipped by headwinds here and abroad, which left onlookers wondering what the rest of the year holds",
+                  "appleid-signin-use-popup": "true",
+                  "og:url": "https://www.philstar.com/business/2022/10/07/2214975/charts-philippine-economy-100-days-marcos-presidency"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://media.philstar.com/photos/2022/10/07/marcos-jr-100-days-economy_2022-10-07_16-05-38.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          }
+        ],
+        "fact_checks": [],
+        "mentioned_politicians": [
+          "Ferdinand Marcos Jr."
+        ],
+        "politician_context": {
+          "Ferdinand Marcos Jr.": {
+            "factchecks": [],
+            "party": "Partido Federal ng Pilipinas",
+            "position": "President of the Philippines"
+          }
+        }
+      },
+      "processing_time": 8.903573036193848
+    },
+    {
+      "text": "Sara Duterte announces mandatory ROTC implementation",
+      "politicians": [
+        "Sara Duterte"
+      ],
+      "is_claim": true,
+      "analysis": {
+        "analysis": {
+          "claim_type": "statement_about",
+          "classification": "FALSE",
+          "explanation": "THIS IS FALSE. There is no evidence to support the claim that Sara Duterte announced mandatory ROTC implementation. The provided evidence does not mention Sara Duterte or any announcement related to mandatory ROTC implementation.",
+          "evidence": [
+            "There is no mention of Sara Duterte or ROTC in the provided evidence.",
+            "The claim is not supported by any factual information.",
+            "No announcement regarding mandatory ROTC by Sara Duterte is found in the evidence."
+          ],
+          "sources": [
+            {
+              "name": "N/A",
+              "url": "N/A",
+              "type": "N/A"
+            }
+          ]
+        },
+        "metadata": {
+          "timestamp": "2025-03-19T23:28:21.126608",
+          "sources_found": 0,
+          "source_types": {
+            "news": 0,
+            "fact_check": 0
+          }
+        }
+      },
+      "evidence": {
+        "google_news": [
+          {
+            "kind": "customsearch#result",
+            "title": "SWS: 42 percent of Filipinos want 'optional' ROTC in senior high ...",
+            "htmlTitle": "SWS: 42 percent of Filipinos want &#39;optional&#39; <b>ROTC</b> in senior high ...",
+            "link": "https://www.abs-cbn.com/news/05/04/23/sws-42-pct-of-pinoys-want-optional-rotc-in-senior-high",
+            "displayLink": "www.abs-cbn.com",
+            "snippet": "15 hours ago ... University of the Philippines students under the Reserved Officers Training Corps (ROTC) perform a military drill on April 30, 2017 at the Diliman campus in\u00a0...",
+            "htmlSnippet": "15 hours ago <b>...</b> University of the Philippines students under the Reserved Officers Training Corps (<b>ROTC</b>) perform a military drill on April 30, 2017 at the Diliman campus in&nbsp;...",
+            "formattedUrl": "https://www.abs-cbn.com/.../sws-42-pct-of-pinoys-want-optional-rotc-in-se...",
+            "htmlFormattedUrl": "https://www.abs-cbn.com/.../sws-42-pct-of-pinoys-want-optional-<b>rotc</b>-in-se...",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOOblMgshpUjV7t9AEkwQVJgl2B2iGv2uoqKEtvz72M6gE9uEjne4oeAGm&s",
+                  "width": "275",
+                  "height": "183"
+                }
+              ],
+              "metatags": [
+                {
+                  "content-provider": "ABS-CBN",
+                  "og:image": "https://od2-image-api.abs-cbn.com/prod/20241028161044/03aae52a623263551e7a0e720a0a55cf78f820c7623f4b6b7805e6ab39bd0993.jpg?w=1200&h=800",
+                  "copyright": "All rights reserved by ABS-CBN Corporation",
+                  "og:image:width": "1200",
+                  "twitter:card": "summary_large_image",
+                  "article:published_time": "2023-05-04T09:17:41Z",
+                  "theme-color": "#fff",
+                  "og:site_name": "ABS-CBN",
+                  "twitter:url": "https://www.abs-cbn.com/news/05/04/23/sws-42-pct-of-pinoys-want-optional-rotc-in-senior-high",
+                  "article-id": "4d33c7b84b3408d8c094dd9c2723a0a33291219e",
+                  "section": "News",
+                  "og:description": "About 4 in 10 adult Filipinos believe the ROTC should be optional in senior high school, according to an SWS survey.",
+                  "article-type": "Standard",
+                  "twitter:image": "https://od2-image-api.abs-cbn.com/prod/20241028161044/03aae52a623263551e7a0e720a0a55cf78f820c7623f4b6b7805e6ab39bd0993.jpg",
+                  "next-head-count": "50",
+                  "twitter:site": "@ABSCBN",
+                  "article:modified_time": "2024-10-28T16:44:44Z",
+                  "page-template": "Text Article",
+                  "source-category": "ANCNation",
+                  "pubdate": "2023-05-04T09:17:41Z",
+                  "og:type": "Website",
+                  "twitter:title": "SWS: 42 percent of Filipinos want 'optional' ROTC in senior high | ABS-CBN News",
+                  "author": "ABS-CBN News",
+                  "og:title": "SWS: 42 percent of Filipinos want 'optional' ROTC in senior high | ABS-CBN News",
+                  "og:image:height": "800",
+                  "fb:pages": "27254475167",
+                  "twitter:image:src": "https://od2-image-api.abs-cbn.com/prod/20241028161044/03aae52a623263551e7a0e720a0a55cf78f820c7623f4b6b7805e6ab39bd0993.jpg",
+                  "sitecode": "ABS-CBN",
+                  "environment": "PROD",
+                  "fb:app_id": "1710456575844989",
+                  "og:locale:alternate": "tl_PH",
+                  "viewport": "width=device-width, initial-scale=1.0",
+                  "contentsource": "Professional/Editorial",
+                  "twitter:description": "About 4 in 10 adult Filipinos believe the ROTC should be optional in senior high school, according to an SWS survey.",
+                  "og:locale": "en_US",
+                  "og:url": "https://www.abs-cbn.com/news/05/04/23/sws-42-pct-of-pinoys-want-optional-rotc-in-senior-high",
+                  "contentlanguage": "English"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://od2-image-api.abs-cbn.com/prod/20241028161044/03aae52a623263551e7a0e720a0a55cf78f820c7623f4b6b7805e6ab39bd0993.jpg?w=1200&h=800"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "ROTC a hotbed for abuses, says group | ABS-CBN News",
+            "htmlTitle": "<b>ROTC</b> a hotbed for abuses, says group | ABS-CBN News",
+            "link": "https://www.abs-cbn.com/news/08/03/16/rotc-a-hotbed-for-abuses-says-group",
+            "displayLink": "www.abs-cbn.com",
+            "snippet": "3 days ago ... ... Duterte wants to revive mandatory ROTC to instill discipline among the youth. But Kabataan party-list group said reviving the mandatory nature of ROTC would\u00a0...",
+            "htmlSnippet": "3 days ago <b>...</b> ... <b>Duterte</b> wants to revive <b>mandatory ROTC</b> to instill discipline among the youth. But Kabataan party-list group said reviving the mandatory nature of ROTC would&nbsp;...",
+            "formattedUrl": "https://www.abs-cbn.com/news/08/03/.../rotc-a-hotbed-for-abuses-says-gro...",
+            "htmlFormattedUrl": "https://www.abs-cbn.com/news/08/03/.../<b>rotc</b>-a-hotbed-for-abuses-says-gro...",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlKjE0BnSllPYOVgoWQcDwZ6ACnGe5x377Aa5UAoz1N8QiuggNYudWN8k&s",
+                  "width": "275",
+                  "height": "183"
+                }
+              ],
+              "metatags": [
+                {
+                  "content-provider": "ABS-CBN",
+                  "og:image": "https://od2-image-api.abs-cbn.com/prod/2024111304118/b36d9ba377c603dc8d051b5b1372d7404b8a09e23f311311946e4a5a7f9365c5.jpg?w=1200&h=800",
+                  "copyright": "All rights reserved by ABS-CBN Corporation",
+                  "og:image:width": "1200",
+                  "twitter:card": "summary_large_image",
+                  "article:published_time": "2016-08-03T08:50:20Z",
+                  "theme-color": "#fff",
+                  "og:site_name": "ABS-CBN",
+                  "twitter:url": "https://www.abs-cbn.com/news/08/03/16/rotc-a-hotbed-for-abuses-says-group",
+                  "article-id": "9385da1b2cd7e136242926b901b4501cb76ea1fc",
+                  "section": "News",
+                  "og:description": "MANILA \u2013 A party-list group opposes the proposal of the Duterte administration to make the Reserve Officers Training Corps (ROTC) program in college mandatory.",
+                  "article-type": "Standard",
+                  "twitter:image": "https://od2-image-api.abs-cbn.com/prod/2024111304118/b36d9ba377c603dc8d051b5b1372d7404b8a09e23f311311946e4a5a7f9365c5.jpg",
+                  "next-head-count": "49",
+                  "twitter:site": "@ABSCBN",
+                  "article:modified_time": "2024-11-13T04:09:36Z",
+                  "page-template": "Text Article",
+                  "pubdate": "2016-08-03T08:50:20Z",
+                  "og:type": "Website",
+                  "twitter:title": "ROTC a hotbed for abuses, says group | ABS-CBN News",
+                  "author": "ABS-CBN News",
+                  "og:title": "ROTC a hotbed for abuses, says group | ABS-CBN News",
+                  "og:image:height": "800",
+                  "fb:pages": "27254475167",
+                  "twitter:image:src": "https://od2-image-api.abs-cbn.com/prod/2024111304118/b36d9ba377c603dc8d051b5b1372d7404b8a09e23f311311946e4a5a7f9365c5.jpg",
+                  "sitecode": "ABS-CBN",
+                  "environment": "PROD",
+                  "fb:app_id": "1710456575844989",
+                  "og:locale:alternate": "tl_PH",
+                  "viewport": "width=device-width, initial-scale=1.0",
+                  "contentsource": "Professional/Editorial",
+                  "twitter:description": "MANILA \u2013 A party-list group opposes the proposal of the Duterte administration to make the Reserve Officers Training Corps (ROTC) program in college mandatory.",
+                  "og:locale": "en_US",
+                  "og:url": "https://www.abs-cbn.com/news/08/03/16/rotc-a-hotbed-for-abuses-says-group",
+                  "contentlanguage": "English"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://od2-image-api.abs-cbn.com/prod/2024111304118/b36d9ba377c603dc8d051b5b1372d7404b8a09e23f311311946e4a5a7f9365c5.jpg?w=1200&h=800"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Kaysa puro TikTok: Dela Rosa dinepensahan ang planong ...",
+            "htmlTitle": "Kaysa puro TikTok: Dela Rosa dinepensahan ang planong ...",
+            "link": "https://www.abs-cbn.com/video/news/02/04/23/kaysa-puro-tiktok-bato-dinepensahan-ang-mandatory-rotc",
+            "displayLink": "www.abs-cbn.com",
+            "snippet": "Mar 8, 2025 ... MAYNILA \u2014 Dinepensahan ni Sen. Ronald \"Bato\" dela Rosa ngayong Sabado ang planong pagbabalik ng Reserve Officers' Training Corps o ROTC sa mga eskuwelahan.",
+            "htmlSnippet": "Mar 8, 2025 <b>...</b> MAYNILA \u2014 Dinepensahan ni Sen. Ronald &quot;Bato&quot; dela Rosa ngayong Sabado ang planong pagbabalik ng Reserve Officers&#39; Training Corps o <b>ROTC</b> sa mga eskuwelahan.",
+            "formattedUrl": "https://www.abs-cbn.com/.../kaysa-puro-tiktok-bato-dinepensahan-ang-man...",
+            "htmlFormattedUrl": "https://www.abs-cbn.com/.../kaysa-puro-tiktok-bato-dinepensahan-ang-<b>man</b>...",
+            "pagemap": {
+              "metatags": [
+                {
+                  "content-provider": "ABS-CBN",
+                  "og:image": "https://od2-image-api.abs-cbn.com/prod/20241029081016/a128215a313f22ed6a8c2844c1b1c438344ce1cce317c20222362a8b12c63dcc.jpg?w=1200&h=800",
+                  "copyright": "All rights reserved by ABS-CBN Corporation",
+                  "og:image:width": "1200",
+                  "twitter:card": "summary_large_image",
+                  "article:published_time": "2023-02-04T04:54:41Z",
+                  "theme-color": "#fff",
+                  "og:site_name": "ABS-CBN",
+                  "twitter:url": "https://www.abs-cbn.com/video/news/02/04/23/kaysa-puro-tiktok-bato-dinepensahan-ang-mandatory-rotc",
+                  "article-id": "afbc218d2e7a4295e44942a70da2af3c9077d135",
+                  "section": "News",
+                  "og:description": "Dinepensahan ni Sen. Bato dela Rosa ang planong pagbabalik ng ROTC sa mga eskuwelahan.",
+                  "article-type": "Standard",
+                  "twitter:image": "https://od2-image-api.abs-cbn.com/prod/20241029081016/a128215a313f22ed6a8c2844c1b1c438344ce1cce317c20222362a8b12c63dcc.jpg",
+                  "next-head-count": "49",
+                  "twitter:site": "@ABSCBN",
+                  "article:modified_time": "2024-10-29T08:17:17Z",
+                  "page-template": "Video Article",
+                  "pubdate": "2023-02-04T04:54:41Z",
+                  "og:type": "Website",
+                  "twitter:title": "Kaysa puro TikTok: Dela Rosa dinepensahan ang planong pagbabalik ng ROTC | ABS-CBN News",
+                  "author": "ABS-CBN News",
+                  "og:title": "Kaysa puro TikTok: Dela Rosa dinepensahan ang planong pagbabalik ng ROTC | ABS-CBN News",
+                  "og:image:height": "800",
+                  "fb:pages": "27254475167",
+                  "twitter:image:src": "https://od2-image-api.abs-cbn.com/prod/20241029081016/a128215a313f22ed6a8c2844c1b1c438344ce1cce317c20222362a8b12c63dcc.jpg",
+                  "sitecode": "ABS-CBN",
+                  "environment": "PROD",
+                  "fb:app_id": "1710456575844989",
+                  "og:locale:alternate": "tl_PH",
+                  "viewport": "width=device-width, initial-scale=1.0",
+                  "contentsource": "Professional/Editorial",
+                  "twitter:description": "Dinepensahan ni Sen. Bato dela Rosa ang planong pagbabalik ng ROTC sa mga eskuwelahan.",
+                  "og:locale": "en_US",
+                  "og:url": "https://www.abs-cbn.com/video/news/02/04/23/kaysa-puro-tiktok-bato-dinepensahan-ang-mandatory-rotc",
+                  "contentlanguage": "English"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://od2-image-api.abs-cbn.com/prod/20241029081016/a128215a313f22ed6a8c2844c1b1c438344ce1cce317c20222362a8b12c63dcc.jpg?w=1200&h=800"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "DOJ says PWDs should get priority lanes, even for K-pop concert ...",
+            "htmlTitle": "DOJ says PWDs should get priority lanes, even for K-pop concert ...",
+            "link": "https://www.abs-cbn.com/news/2024/9/30/k-pop-concert-ticket-for-pwd-spurs-doj-opinion-on-priority-lanes-1445",
+            "displayLink": "www.abs-cbn.com",
+            "snippet": "Sep 29, 2024 ... The DOJ opined that express lanes or priority for Persons with Disabilities (PWD) should be provided in all commercial and government\u00a0...",
+            "htmlSnippet": "Sep 29, 2024 <b>...</b> The DOJ opined that express lanes or priority for Persons with Disabilities (PWD) should be provided in all commercial and government&nbsp;...",
+            "formattedUrl": "https://www.abs-cbn.com/.../k-pop-concert-ticket-for-pwd-spurs-doj-opinio...",
+            "htmlFormattedUrl": "https://www.abs-cbn.com/.../k-pop-concert-ticket-for-pwd-spurs-doj-opinio...",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4UGrAcIBwlEyAtMuokOWc_oeamfmd4llqAU-JTRRVp74vzf88qq0X7AE&s",
+                  "width": "275",
+                  "height": "183"
+                }
+              ],
+              "metatags": [
+                {
+                  "content-provider": "ABS-CBN",
+                  "og:image": "https://od2-image-api.abs-cbn.com/prod/2024102505108/43c7990e87ec9af1fd2171d7aab08f27718426f126c237f2e8926e69a97f7650.jpg?w=1200&h=800",
+                  "copyright": "All rights reserved by ABS-CBN Corporation",
+                  "og:image:width": "1200",
+                  "twitter:card": "summary_large_image",
+                  "article:published_time": "2024-09-30T07:45:48Z",
+                  "theme-color": "#fff",
+                  "og:site_name": "ABS-CBN",
+                  "twitter:url": "https://www.abs-cbn.com/news/2024/9/30/k-pop-concert-ticket-for-pwd-spurs-doj-opinion-on-priority-lanes-1445",
+                  "article-id": "33aadf76c0ed4fa4177884ab86fe543344896dd2",
+                  "section": "News",
+                  "og:description": "The DOJ opined that express lanes or priority for Persons with Disabilities (PWD) should be provided in all commercial and government establishments.",
+                  "twitter:creator": "@adrianayalin",
+                  "article-type": "Standard",
+                  "twitter:image": "https://od2-image-api.abs-cbn.com/prod/2024102505108/43c7990e87ec9af1fd2171d7aab08f27718426f126c237f2e8926e69a97f7650.jpg",
+                  "next-head-count": "51",
+                  "twitter:site": "@ABSCBN",
+                  "article:modified_time": "2024-11-20T08:59:16Z",
+                  "page-template": "Text Article",
+                  "pubdate": "2024-09-30T07:45:48Z",
+                  "og:type": "Website",
+                  "twitter:title": "DOJ says PWDs should get priority lanes, even for K-pop concert tickets | ABS-CBN News",
+                  "author": "Adrian Ayalin",
+                  "og:title": "DOJ says PWDs should get priority lanes, even for K-pop concert tickets | ABS-CBN News",
+                  "og:image:height": "800",
+                  "fb:pages": "27254475167",
+                  "twitter:image:src": "https://od2-image-api.abs-cbn.com/prod/2024102505108/43c7990e87ec9af1fd2171d7aab08f27718426f126c237f2e8926e69a97f7650.jpg",
+                  "sitecode": "ABS-CBN",
+                  "environment": "PROD",
+                  "fb:app_id": "1710456575844989",
+                  "og:locale:alternate": "tl_PH",
+                  "viewport": "width=device-width, initial-scale=1.0",
+                  "contentsource": "Professional/Editorial",
+                  "twitter:description": "The DOJ opined that express lanes or priority for Persons with Disabilities (PWD) should be provided in all commercial and government establishments.",
+                  "og:locale": "en_US",
+                  "og:url": "https://www.abs-cbn.com/news/2024/9/30/k-pop-concert-ticket-for-pwd-spurs-doj-opinion-on-priority-lanes-1445",
+                  "contentlanguage": "English"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://od2-image-api.abs-cbn.com/prod/2024102505108/43c7990e87ec9af1fd2171d7aab08f27718426f126c237f2e8926e69a97f7650.jpg?w=1200&h=800"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Escudero: Senate to tackle House adjustment of OVP budget | ABS ...",
+            "htmlTitle": "Escudero: Senate to tackle House adjustment of OVP budget | ABS ...",
+            "link": "https://www.abs-cbn.com/news/2024/9/25/escudero-senate-to-tackle-house-adjustment-of-ovp-budget-1818",
+            "displayLink": "www.abs-cbn.com",
+            "snippet": "Sep 24, 2024 ... ... Sara Duterte showed up at the Senate's hearing. The VP has skipped the House's hearings, leaving the fate of her budget to the House. The VP\u00a0...",
+            "htmlSnippet": "Sep 24, 2024 <b>...</b> ... <b>Sara Duterte</b> showed up at the Senate&#39;s hearing. The VP has skipped the House&#39;s hearings, leaving the fate of her budget to the House. The VP&nbsp;...",
+            "formattedUrl": "https://www.abs-cbn.com/.../escudero-senate-to-tackle-house-adjustment-of...",
+            "htmlFormattedUrl": "https://www.abs-cbn.com/.../escudero-senate-to-tackle-house-adjustment-of...",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lyt_5thoSiCYm4I3ZnnOJpFxKXc1k1Y0hvLLpI5aiXGWC0iCsW5G3Ps&s",
+                  "width": "275",
+                  "height": "183"
+                }
+              ],
+              "metatags": [
+                {
+                  "content-provider": "ABS-CBN",
+                  "og:image": "https://od2-image-api.abs-cbn.com/prod/2024102506104/89436b4a0fb75d4b21e92297cc6cf075dd875e4a2347be2d419f78482de5131c.jpg?w=1200&h=800",
+                  "copyright": "All rights reserved by ABS-CBN Corporation",
+                  "og:image:width": "1200",
+                  "twitter:card": "summary_large_image",
+                  "article:published_time": "2024-09-25T12:30:00Z",
+                  "theme-color": "#fff",
+                  "og:site_name": "ABS-CBN",
+                  "twitter:url": "https://www.abs-cbn.com/news/2024/9/25/escudero-senate-to-tackle-house-adjustment-of-ovp-budget-1818",
+                  "article-id": "6a91c989243a51d95853da4bf2676785c6807b31",
+                  "section": "News",
+                  "og:description": "Senate President Francis Escudero says they are going to take up the adjustments made by the House of Representatives to the 2025 Office of the Vice President (OVP) budget worth over P2 billion.",
+                  "twitter:creator": "@RG_Cruz12479",
+                  "article-type": "Standard",
+                  "twitter:image": "https://od2-image-api.abs-cbn.com/prod/2024102506104/89436b4a0fb75d4b21e92297cc6cf075dd875e4a2347be2d419f78482de5131c.jpg",
+                  "next-head-count": "51",
+                  "twitter:site": "@ABSCBN",
+                  "article:modified_time": "2024-11-20T09:06:25Z",
+                  "page-template": "Text Article",
+                  "pubdate": "2024-09-25T12:30:00Z",
+                  "og:type": "Website",
+                  "twitter:title": "Escudero: Senate to tackle House adjustment of OVP budget | ABS-CBN News",
+                  "author": "RG Cruz",
+                  "og:title": "Escudero: Senate to tackle House adjustment of OVP budget | ABS-CBN News",
+                  "og:image:height": "800",
+                  "fb:pages": "27254475167",
+                  "twitter:image:src": "https://od2-image-api.abs-cbn.com/prod/2024102506104/89436b4a0fb75d4b21e92297cc6cf075dd875e4a2347be2d419f78482de5131c.jpg",
+                  "sitecode": "ABS-CBN",
+                  "environment": "PROD",
+                  "fb:app_id": "1710456575844989",
+                  "og:locale:alternate": "tl_PH",
+                  "viewport": "width=device-width, initial-scale=1.0",
+                  "contentsource": "Professional/Editorial",
+                  "twitter:description": "Senate President Francis Escudero says they are going to take up the adjustments made by the House of Representatives to the 2025 Office of the Vice President (OVP) budget worth over P2 billion.",
+                  "og:locale": "en_US",
+                  "og:url": "https://www.abs-cbn.com/news/2024/9/25/escudero-senate-to-tackle-house-adjustment-of-ovp-budget-1818",
+                  "contentlanguage": "English"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://od2-image-api.abs-cbn.com/prod/2024102506104/89436b4a0fb75d4b21e92297cc6cf075dd875e4a2347be2d419f78482de5131c.jpg?w=1200&h=800"
+                }
+              ]
+            },
+            "source_type": "all"
+          }
+        ],
+        "fact_checks": [],
+        "mentioned_politicians": [
+          "Sara Duterte"
+        ],
+        "politician_context": {
+          "Sara Duterte": {
+            "factchecks": [],
+            "party": "Lakas-CMD",
+            "position": "Vice President of the Philippines"
+          }
+        }
+      },
+      "processing_time": 10.338425636291504
+    },
+    {
+      "text": "GMA claims 8% economic growth target for 2024",
+      "politicians": [
+        "Gloria Macapagal Arroyo"
+      ],
+      "is_claim": true,
+      "analysis": {
+        "analysis": {
+          "claim_type": "statement_about",
+          "classification": "FALSE",
+          "explanation": "THIS IS FALSE. The claim that GMA (Good Morning America) has set an 8% economic growth target for 2024 is not supported by any evidence. There is no information or announcement from GMA regarding such an economic growth target.",
+          "evidence": [
+            "There is no mention of GMA setting an economic growth target in the provided evidence.",
+            "No official statement or report from GMA supports the claim.",
+            "The claim lacks any credible source or basis."
+          ],
+          "sources": []
+        },
+        "metadata": {
+          "timestamp": "2025-03-19T23:28:28.162598",
+          "sources_found": 0,
+          "source_types": {
+            "news": 0,
+            "fact_check": 0
+          }
+        }
+      },
+      "evidence": {
+        "google_news": [
+          {
+            "kind": "customsearch#result",
+            "title": "BSP: PH economic growth seen moderate at lower end of 6-8% target",
+            "htmlTitle": "BSP: PH <b>economic growth</b> seen moderate at lower end of 6-<b>8</b>% <b>target</b>",
+            "link": "https://www.gmanetwork.com/news/money/economy/939772/bsp-ph-economic-growth-seen-moderate-at-lower-end-of-6-8-target/story/",
+            "displayLink": "www.gmanetwork.com",
+            "snippet": "11 hours ago ... The BSP cited the following factors for its moderate outlook on the Philippine economy: The lower-than-expected fourth quarter 2024 growth\u00a0...",
+            "htmlSnippet": "11 hours ago <b>...</b> The BSP cited the following factors for its moderate outlook on the Philippine <b>economy</b>: The lower-than-expected fourth quarter <b>2024 growth</b>&nbsp;...",
+            "formattedUrl": "https://www.gmanetwork.com/...economic-growth...at...8-target/story/",
+            "htmlFormattedUrl": "https://www.<b>gma</b>network.com/...<b>economic</b>-<b>growth</b>...at...<b>8</b>-<b>target</b>/story/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTco5cD0gC5BynjwVHdWkrxaKR2F-uufL-vIMs9yM1TS-_Uw6Zc6cd4Mvo&s",
+                  "width": "259",
+                  "height": "194"
+                }
+              ],
+              "thumbnail": [
+                {
+                  "src": "https://images.gmanews.tv/v3/webpics/v3/2014/09/2014_09_01_13_49_53.jpg"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=428475927",
+                  "og:image": "https://images.gmanews.tv/v3/webpics/v3/2014/09/2014_09_01_13_49_53.jpg",
+                  "twitter:card": "summary_large_image",
+                  "og:image:width": "640",
+                  "og:site_name": "GMA News Online",
+                  "twitter:url": "https://www.gmanetwork.com/news/money/economy/939772/bsp-ph-economic-growth-seen-moderate-at-lower-end-of-6-8-target/story/",
+                  "language": "en",
+                  "twitter:creator": "@gmanews",
+                  "og:description": "The Bangko Sentral ng Pilipinas (BSP) is expecting the country's economic performance this year and next to be moderate amid tempered consumption activities resulting from high commodity prices and global uncertainties.",
+                  "twitter:image": "https://images.gmanews.tv/v3/webpics/v3/2014/09/2014_09_01_13_49_53.jpg",
+                  "og:image:secure_url": "https://images.gmanews.tv/v3/webpics/v3/2014/09/2014_09_01_13_49_53.jpg",
+                  "og:pubdate": "2025-03-19T12:26:48+08:00",
+                  "twitter:site": "@GMANewsOnline",
+                  "news_keywords": "BSP, Bangko Sentral ng Pilipinas, Economy, GDP, gross domestic product",
+                  "lastmod": "2025-03-19T12:26:48+08:00",
+                  "pubdate": "2025-03-19T12:26:48+08:00",
+                  "creator": "GMA News and Public Affairs",
+                  "twitter:title": "BSP: PH economic growth seen moderate at lower end of 6-8% target",
+                  "og:type": "article",
+                  "thumbnail": "https://images.gmanews.tv/v3/webpics/v3/2014/09/2014_09_01_13_49_53.jpg",
+                  "twitter:domain": "https://www.gmanetwork.com/news/",
+                  "author": "TED CORDERO, GMA Integrated News",
+                  "og:title": "BSP: PH economic growth seen moderate at lower end of 6-8% target",
+                  "og:image:height": "480",
+                  "fb:pages": "116724526976",
+                  "fb:app_id": "255951164473730",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "The Bangko Sentral ng Pilipinas (BSP) is expecting the country's economic performance this year and next to be moderate amid tempered consumption activities resulting from high commodity prices and global uncertainties.",
+                  "publisher": "GMA News Online",
+                  "og:url": "https://www.gmanetwork.com/news/money/economy/939772/bsp-ph-economic-growth-seen-moderate-at-lower-end-of-6-8-target/story/",
+                  "google-play-app": "app-id=com.gmanews.eleksyon"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://images.gmanews.tv/v3/webpics/v3/2014/09/2014_09_01_13_49_53.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "PDIC remits P107.23B to Treasury | GMA News Online",
+            "htmlTitle": "PDIC remits P107.23B to Treasury | <b>GMA</b> News Online",
+            "link": "https://www.gmanetwork.com/news/money/economy/932675/pdic-remits-p107-23b-to-treasury/story/",
+            "displayLink": "www.gmanetwork.com",
+            "snippet": "Jan 12, 2025 ... The remittance was part of the government's efforts to improve the country's economy by funding the national government's priority projects,\u00a0...",
+            "htmlSnippet": "Jan 12, 2025 <b>...</b> The remittance was part of the government&#39;s efforts to improve the country&#39;s <b>economy</b> by funding the national government&#39;s priority projects,&nbsp;...",
+            "formattedUrl": "https://www.gmanetwork.com/news/money/economy/932675/.../story/",
+            "htmlFormattedUrl": "https://www.<b>gma</b>network.com/news/money/economy/932675/.../story/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTeDTME7UQVLlAxwTC8Ykk50W1kCSJS5k3YgAOP-B7m0aE54opJJYxNNknB&s",
+                  "width": "305",
+                  "height": "165"
+                }
+              ],
+              "thumbnail": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2021/04/Old_HQ_2021_04_09_17_47_35.jpg"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=428475927",
+                  "og:image": "https://images.gmanews.tv/webpics/2021/04/Old_HQ_2021_04_09_17_47_35.jpg",
+                  "twitter:card": "summary_large_image",
+                  "og:image:width": "640",
+                  "og:site_name": "GMA News Online",
+                  "twitter:url": "https://www.gmanetwork.com/news/money/economy/932675/pdic-remits-p107-23b-to-treasury/story/",
+                  "language": "en",
+                  "twitter:creator": "@gmanews",
+                  "og:description": "The Philippine Deposit Insurance Corporation has remitted P107.23 billion to the Bureau of Treasury, an amount which will support the administration's priority\u00a0projects.\u00a0",
+                  "twitter:image": "https://images.gmanews.tv/webpics/2021/04/Old_HQ_2021_04_09_17_47_35.jpg",
+                  "og:image:secure_url": "https://images.gmanews.tv/webpics/2021/04/Old_HQ_2021_04_09_17_47_35.jpg",
+                  "og:pubdate": "2025-01-13T10:08:14+08:00",
+                  "twitter:site": "@GMANewsOnline",
+                  "news_keywords": "pdic, Bureau of Treasury, Deposit Insurance Fund",
+                  "lastmod": "2025-01-13T10:08:15+08:00",
+                  "pubdate": "2025-01-13T10:08:14+08:00",
+                  "creator": "GMA News and Public Affairs",
+                  "twitter:title": "PDIC remits P107.23B to Treasury",
+                  "og:type": "article",
+                  "thumbnail": "https://images.gmanews.tv/webpics/2021/04/Old_HQ_2021_04_09_17_47_35.jpg",
+                  "twitter:domain": "https://www.gmanetwork.com/news/",
+                  "author": "GMA News",
+                  "og:title": "PDIC remits P107.23B to Treasury",
+                  "og:image:height": "480",
+                  "fb:pages": "116724526976",
+                  "fb:app_id": "255951164473730",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "The Philippine Deposit Insurance Corporation has remitted P107.23 billion to the Bureau of Treasury, an amount which will support the administration's priority\u00a0projects.\u00a0",
+                  "publisher": "GMA News Online",
+                  "og:url": "https://www.gmanetwork.com/news/money/economy/932675/pdic-remits-p107-23b-to-treasury/story/",
+                  "google-play-app": "app-id=com.gmanews.eleksyon"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2021/04/Old_HQ_2021_04_09_17_47_35.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "Inflation quickens to 2.5% in November 2024 | GMA News Online",
+            "htmlTitle": "Inflation quickens to 2.5% in November <b>2024</b> | <b>GMA</b> News Online",
+            "link": "https://www.gmanetwork.com/news/money/economy/929051/inflation-november-2024/story/",
+            "displayLink": "www.gmanetwork.com",
+            "snippet": "Dec 4, 2024 ... This demonstrates the resilience of our economy and the effectiveness of our policies,\u201d National Economic and Development Authority (NEDA)\u00a0...",
+            "htmlSnippet": "Dec 4, 2024 <b>...</b> This demonstrates the resilience of our <b>economy</b> and the effectiveness of our policies,\u201d National <b>Economic</b> and <b>Development</b> Authority (NEDA)&nbsp;...",
+            "formattedUrl": "https://www.gmanetwork.com/news/money/economy/...2024/story/",
+            "htmlFormattedUrl": "https://www.<b>gma</b>network.com/news/money/economy/...<b>2024</b>/story/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQMP8yYQRBHhpIEBKl2RrP4FgHfsi3q6pz4Ygj7mqEihq4KnSkIDKSYF3-c&s",
+                  "width": "275",
+                  "height": "183"
+                }
+              ],
+              "thumbnail": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2019/06/ZZZ_060519_inflation_2019_06_05_12_05_17.jpg"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=428475927",
+                  "og:image": "https://images.gmanews.tv/webpics/2019/06/ZZZ_060519_inflation_2019_06_05_12_05_17.jpg",
+                  "twitter:card": "summary_large_image",
+                  "og:image:width": "640",
+                  "og:site_name": "GMA News Online",
+                  "twitter:url": "https://www.gmanetwork.com/news/money/economy/929051/inflation-november-2024/story/",
+                  "language": "en",
+                  "twitter:creator": "@gmanews",
+                  "og:description": "The country\u2019s inflation rate continued its acceleration streak for the second straight month in November",
+                  "twitter:image": "https://images.gmanews.tv/webpics/2019/06/ZZZ_060519_inflation_2019_06_05_12_05_17.jpg",
+                  "og:image:secure_url": "https://images.gmanews.tv/webpics/2019/06/ZZZ_060519_inflation_2019_06_05_12_05_17.jpg",
+                  "og:pubdate": "2024-12-05T09:22:10+08:00",
+                  "twitter:site": "@GMANewsOnline",
+                  "news_keywords": "inflation, Economy, money, PSA",
+                  "lastmod": "2024-12-05T10:43:10+08:00",
+                  "pubdate": "2024-12-05T09:22:10+08:00",
+                  "creator": "GMA News and Public Affairs",
+                  "twitter:title": "Inflation quickens to 2.5% in November 2024",
+                  "og:type": "article",
+                  "thumbnail": "https://images.gmanews.tv/webpics/2019/06/ZZZ_060519_inflation_2019_06_05_12_05_17.jpg",
+                  "twitter:domain": "https://www.gmanetwork.com/news/",
+                  "author": "TED CORDERO, GMA Integrated News",
+                  "og:title": "Inflation quickens to 2.5% in November 2024",
+                  "og:image:height": "480",
+                  "fb:pages": "116724526976",
+                  "fb:app_id": "255951164473730",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "The country\u2019s inflation rate continued its acceleration streak for the second straight month in November",
+                  "publisher": "GMA News Online",
+                  "og:url": "https://www.gmanetwork.com/news/money/economy/929051/inflation-november-2024/story/",
+                  "google-play-app": "app-id=com.gmanews.eleksyon"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2019/06/ZZZ_060519_inflation_2019_06_05_12_05_17.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "AI and the jobs question | GMA News Online",
+            "htmlTitle": "AI and the jobs question | <b>GMA</b> News Online",
+            "link": "https://www.gmanetwork.com/news/opinion/content/927945/ai-and-the-jobs-question/story/",
+            "displayLink": "www.gmanetwork.com",
+            "snippet": "Nov 22, 2024 ... I view General Purpose AI not as a threat but as an opportunity\u2014one that, if leveraged wisely, could propel our economy into a new era of\u00a0...",
+            "htmlSnippet": "Nov 22, 2024 <b>...</b> I view General Purpose AI not as a threat but as an opportunity\u2014one that, if leveraged wisely, could propel our <b>economy</b> into a new era of&nbsp;...",
+            "formattedUrl": "https://www.gmanetwork.com/news/opinion/content/927945/ai.../story/",
+            "htmlFormattedUrl": "https://www.<b>gma</b>network.com/news/opinion/content/927945/ai.../story/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSIx4naw_N2DO4waHrFJBnOIfCA2269EgrWsmDZnwpP_i6C1kAQ2m0dAj4&s",
+                  "width": "259",
+                  "height": "194"
+                }
+              ],
+              "thumbnail": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2024/11/RobotsGraduating_2024_11_23_14_01_48.jpg"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=428475927",
+                  "og:image": "https://images.gmanews.tv/webpics/2024/11/RobotsGraduating_2024_11_23_14_01_48.jpg",
+                  "twitter:card": "summary_large_image",
+                  "og:image:width": "640",
+                  "og:site_name": "GMA News Online",
+                  "twitter:url": "https://www.gmanetwork.com/news/opinion/content/927945/ai-and-the-jobs-question/story/",
+                  "language": "en",
+                  "twitter:creator": "@gmanews",
+                  "og:description": "I view General Purpose AI not as a threat but as an opportunity\u2014one that, if leveraged wisely, could propel our economy into a new era of innovation and growth. The challenge is whether we can adapt fast enough.",
+                  "twitter:image": "https://images.gmanews.tv/webpics/2024/11/RobotsGraduating_2024_11_23_14_01_48.jpg",
+                  "og:image:secure_url": "https://images.gmanews.tv/webpics/2024/11/RobotsGraduating_2024_11_23_14_01_48.jpg",
+                  "og:pubdate": "2024-11-23T14:16:32+08:00",
+                  "twitter:site": "@GMANewsOnline",
+                  "news_keywords": "artificial intelligence, Dominic Ligot, opinion",
+                  "lastmod": "2024-11-23T14:16:32+08:00",
+                  "pubdate": "2024-11-23T14:16:32+08:00",
+                  "creator": "GMA News and Public Affairs",
+                  "twitter:title": "AI and the jobs question",
+                  "og:type": "article",
+                  "thumbnail": "https://images.gmanews.tv/webpics/2024/11/RobotsGraduating_2024_11_23_14_01_48.jpg",
+                  "twitter:domain": "https://www.gmanetwork.com/news/",
+                  "author": "DOMINIC LIGOT",
+                  "og:title": "AI and the jobs question",
+                  "og:image:height": "480",
+                  "fb:pages": "116724526976",
+                  "fb:app_id": "255951164473730",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "I view General Purpose AI not as a threat but as an opportunity\u2014one that, if leveraged wisely, could propel our economy into a new era of innovation and growth. The challenge is whether we can adapt fast enough.",
+                  "publisher": "GMA News Online",
+                  "og:url": "https://www.gmanetwork.com/news/opinion/content/927945/ai-and-the-jobs-question/story/",
+                  "google-play-app": "app-id=com.gmanews.eleksyon"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2024/11/RobotsGraduating_2024_11_23_14_01_48.jpg"
+                }
+              ]
+            },
+            "source_type": "all"
+          },
+          {
+            "kind": "customsearch#result",
+            "title": "SM Investments nets P60.9 billion in Jan.-Sept. 2024 | GMA News ...",
+            "htmlTitle": "SM Investments nets P60.9 billion in Jan.-Sept. <b>2024</b> | <b>GMA</b> News ...",
+            "link": "https://www.gmanetwork.com/news/money/companies/926896/sm-investments-nets-p60-9-billion-in-jan-sept-2024/story/",
+            "displayLink": "www.gmanetwork.com",
+            "snippet": "Nov 12, 2024 ... Sy-led diversified conglomerate SM Investments Corp. (SMIC) posted a 9% growth in its consolidated net income for the first nine months of\u00a0...",
+            "htmlSnippet": "Nov 12, 2024 <b>...</b> Sy-led diversified conglomerate SM Investments Corp. (SMIC) posted a 9% <b>growth</b> in its consolidated net income for the first nine months of&nbsp;...",
+            "formattedUrl": "https://www.gmanetwork.com/news/money/companies/...2024/story/",
+            "htmlFormattedUrl": "https://www.<b>gma</b>network.com/news/money/companies/...<b>2024</b>/story/",
+            "pagemap": {
+              "cse_thumbnail": [
+                {
+                  "src": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0PdsWnZAPx5PMDFZ61YUqqOoh1T640znCS4VZsuaDyfbHXsqBGQeQ7uc&s",
+                  "width": "225",
+                  "height": "225"
+                }
+              ],
+              "thumbnail": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2024/08/Stacked_Logo_-_BLUE_-_White_BG_2024_08_07_13_01_48.png"
+                }
+              ],
+              "metatags": [
+                {
+                  "apple-itunes-app": "app-id=428475927",
+                  "og:image": "https://images.gmanews.tv/webpics/2024/08/Stacked_Logo_-_BLUE_-_White_BG_2024_08_07_13_01_48.png",
+                  "twitter:card": "summary_large_image",
+                  "og:image:width": "640",
+                  "og:site_name": "GMA News Online",
+                  "twitter:url": "https://www.gmanetwork.com/news/money/companies/926896/sm-investments-nets-p60-9-billion-in-jan-sept-2024/story/",
+                  "language": "en",
+                  "twitter:creator": "@gmanews",
+                  "og:description": "Sy-led diversified conglomerate SM Investments Corp. (SMIC) posted a 9% growth in its consolidated net income for the first nine months of the year, with its banking and property business units accounting for the largest share.",
+                  "twitter:image": "https://images.gmanews.tv/webpics/2024/08/Stacked_Logo_-_BLUE_-_White_BG_2024_08_07_13_01_48.png",
+                  "og:image:secure_url": "https://images.gmanews.tv/webpics/2024/08/Stacked_Logo_-_BLUE_-_White_BG_2024_08_07_13_01_48.png",
+                  "og:pubdate": "2024-11-13T12:52:41+08:00",
+                  "twitter:site": "@GMANewsOnline",
+                  "news_keywords": "SM Investments Corp, net income",
+                  "lastmod": "2024-11-13T12:52:41+08:00",
+                  "pubdate": "2024-11-13T12:52:41+08:00",
+                  "creator": "GMA News and Public Affairs",
+                  "twitter:title": "SM Investments nets P60.9 billion in Jan.-Sept. 2024",
+                  "og:type": "article",
+                  "thumbnail": "https://images.gmanews.tv/webpics/2024/08/Stacked_Logo_-_BLUE_-_White_BG_2024_08_07_13_01_48.png",
+                  "twitter:domain": "https://www.gmanetwork.com/news/",
+                  "author": "JON VIKTOR D. CABUENAS, GMA Integrated News",
+                  "og:title": "SM Investments nets P60.9 billion in Jan.-Sept. 2024",
+                  "og:image:height": "480",
+                  "fb:pages": "116724526976",
+                  "fb:app_id": "255951164473730",
+                  "viewport": "width=device-width, initial-scale=1",
+                  "twitter:description": "Sy-led diversified conglomerate SM Investments Corp. (SMIC) posted a 9% growth in its consolidated net income for the first nine months of the year, with its banking and property business units accounting for the largest share.",
+                  "publisher": "GMA News Online",
+                  "og:url": "https://www.gmanetwork.com/news/money/companies/926896/sm-investments-nets-p60-9-billion-in-jan-sept-2024/story/",
+                  "google-play-app": "app-id=com.gmanews.eleksyon"
+                }
+              ],
+              "cse_image": [
+                {
+                  "src": "https://images.gmanews.tv/webpics/2024/08/Stacked_Logo_-_BLUE_-_White_BG_2024_08_07_13_01_48.png"
+                }
+              ]
+            },
+            "source_type": "all"
+          }
+        ],
+        "fact_checks": [],
+        "mentioned_politicians": [
+          "Gloria Macapagal Arroyo"
+        ],
+        "politician_context": {
+          "Gloria Macapagal Arroyo": {
+            "factchecks": [],
+            "party": "Lakas-CMD",
+            "position": "Former President"
+          }
+        }
+      },
+      "processing_time": 7.0349650382995605
+    },
+    {
+      "text": "According to Imee Marcos, agriculture needs \u20b1200B funding",
+      "politicians": [
+        "Imee Marcos"
+      ],
+      "is_claim": true,
+      "analysis": {
+        "analysis": {
+          "claim_type": "direct_quote",
+          "classification": "FALSE",
+          "explanation": "THIS IS FALSE. There is no evidence provided to support the claim that Imee Marcos stated agriculture needs \u20b1200B funding.",
+          "evidence": [],
+          "sources": []
+        },
+        "metadata": {
+          "timestamp": "2025-03-19T23:28:34.132697",
+          "sources_found": 0,
+          "source_types": {
+            "news": 0,
+            "fact_check": 0
+          }
+        }
+      },
+      "evidence": {
+        "google_news": [],
+        "fact_checks": [],
+        "mentioned_politicians": [
+          "Imee Marcos"
+        ],
+        "politician_context": {
+          "Imee Marcos": {
+            "factchecks": [],
+            "party": "Nacionalista",
+            "position": "Senator"
+          }
+        }
+      },
+      "processing_time": 5.971837282180786
+    }
+  ],
+  "summary": {
+    "total_cases": 4,
+    "successful_cases": 4,
+    "total_time": "32.25 seconds",
+    "average_time_per_case": "8.06 seconds"
+  }
+}
