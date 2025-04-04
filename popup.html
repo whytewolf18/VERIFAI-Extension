@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fact Checker Popup</title>
+    <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+    <div id="popupContainer">
+        <h1>Fact Checker</h1>
+        <div id="resultContainer">
+            <p id="loadingMessage">Loading...</p>
+            <div id="factCheckResult" style="display: none;">
+                <h2>Fact Check Result</h2>
+                <p id="claimText"></p>
+                <p id="classification"></p>
+                <p id="explanation"></p>
+            </div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="claimInput" placeholder="Enter claim to check...">
+            <button id="checkButton">Check Claim</button>
+        </div>
+    </div>
+    <script src="popup.js"></script>
+</body>
+</html>
